@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Crear XML para trovit</title>
+    <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+</head>
+<body>
+      <label for="id">Id</label>
+      <input type="text" id="id">
+      <br>
+      <label for="url">Url</label>
+      <input type="text" id="url">
+      <br>
+      <label for="title">Titulo</label>
+      <input type="text" id="title">
+      <br>
+      <label for="type">Venta,renta</label>
+      <select name="type" id="type">
+          <option value="For sale" selected>Venta</option>
+          <option value="For rent">Renta</option>
+          </select>
+      <br>
+      <label for="content">Descripcion</label>
+      <input type="text" id="content">
+      <br>
+      <label for="price">Precio</label>
+      <input type="text" id="price">
+      <br>
+      <label for="property_type">Tipo de propiedad</label>
+      <select name="property_type" id="property_type">
+          <option value="casa" selected>casa</option>
+          <option value="terreno comercial">Terreno comercial</option>
+          <option value="terreno industrial">Terreno industrial</option>
+          <option value="terreno suburbano">Terreno suburbano</option>
+          <option value="terreno residencial">Terreno residencial</option>
+          </select>
+      <br>
+      <label for="address">Direccion</label>
+      <input type="text" id="address">
+      <br>
+      <label for="city_area">Colonia, con la palabra colonia</label>
+      <input type="text" id="city_area">
+      <br>
+      <label for="city">Ciudad</label>
+      <input type="text" id="city">
+      <br>
+      <label for="region">Estado</label>
+      <input type="text" id="region">
+      <br>
+      <label for="postcode">Codigo Postal</label>
+      <input type="text" id="postcode">
+      <br>
+      <label for="latitude">Latitud</label>
+      <input type="text" id="latitude">
+      <br>
+      <label for="longitude">Longitud</label>
+      <input type="text" id="longitude">
+      <br>
+      <label for="orientation">Orientacion, hacia que lado esta mirando el frente</label>
+      <input type="text" id="orientation">
+      <br>
+      <label for="agency">Agencia, api</label>
+      <input type="text" id="agency" value="API &amp; Asosiados">
+      <br>
+      <label for="floor_area">Area M2</label>
+      <input type="text" id="floor_area">
+      <br>
+      <label for="rooms">Recamaras</label>
+      <input type="text" id="rooms">
+      <br>
+      <label for="bathrooms">Baños</label>
+      <input type="text" id="bathrooms">
+      <br>
+      <label for="pictures">Imagenes</label><a href="agregarimagenes.html " target="_blank">Agregar imagenes</a>
+      <br>
+      <label for="parking">Si cuenta con estacionamiento</label>
+      <select name="parking" id="parking">
+          <option value="1" selected>Si</option>
+          <option value="0">No</option>
+          </select>
+      <br>
+      <label for="contact_name">Nombre de contacto</label>
+      <input type="text" id="contact_name" value="Atencion a clientes">
+      <br>
+      <label for="contact_email">Email</label>
+      <input type="text" id="contact_email" value="atencionaclientes@apiinmobiliaria.com.mx">
+      <br>
+      <label for="contact_telephone">Telefono</label>
+      <input type="text" id="contact_telephone" value="8712044882">
+      <br>
+      <input type="button" id="btn1" value="Descargar XML" />
+      
+<script src="js.js"></script>
+</body>
+</html>
