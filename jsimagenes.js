@@ -44,14 +44,14 @@ function generarXml(datos) {
     var texto = [];
     //texto.push('<?xml version="1.0" encoding="UTF-8" ?>\n');
     //texto.push('<trovit>\n');
-    texto.push('<picture>\n');
-        texto.push('\t<picture_url>');
-            texto.push(escaparXML(datos.picture_url));
-        texto.push('</picture_url>\n');
-        texto.push('\t<picture_title>');
+    texto.push('\t\t\t<picture>\n');
+        texto.push('\t\t\t\t<picture_url>\n');
+            texto.push('\t\t\t\t'+escaparXML(datos.picture_url)+'\n');
+        texto.push('\t\t\t\t</picture_url>\n');
+        texto.push('\t\t\t\t<picture_title>');
             texto.push(escaparXML(datos.picture_title));
         texto.push('</picture_title>\n');
-    texto.push('</picture>')
+    texto.push('\t\t\t</picture>')
     //texto.push('</trovit>');
     //No olvidemos especificar el tipo MIME correcto :)
     return new Blob(texto, {

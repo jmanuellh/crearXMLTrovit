@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trovit>
+    <ad>
+        <id><![CDATA[36431]]></id>
+        <url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36431&Ir=Ir]]></url>
+        <title><![CDATA[Excelente Propiedad Muy cerca de La Casa de la Cristiandad y La Preparatoria La Salle]]></title>
+        <type><![CDATA[For Sale]]></type>
+        <content><![CDATA[Excelente propiedad que consta de una casa de tres habitaciones en planta baja y dos departamentos independientes en planta alta, en perfectas condiciones y lista para habitarse. La casa y los dos departamentos se encuentran equipados. Ubicada en lugar muy tranquilo.
+        La propiedad se encuentra en una cerrada muy tranquila entre la Calle Feliciano Cobian y Retorno de los Naranjos. Esta ubicada entre las colonias Ampliación Los Ángeles y Las Margaritas. Muy cerca de La Casa de la Cristiandad y La Preparatoria La Salle.]]></content>
+        <price><![CDATA[2390000]]></price>
+        <property_type><![CDATA[casa]]></property_type>
+        <address><![CDATA[Rincón de la Noria No.86]]></address>
+        <city_area><![CDATA[Colonia Villa Jardin]]></city_area>
+        <city><![CDATA[Torreon]]></city>
+        <postcode><![CDATA[27130]]></postcode>
+        <region><![CDATA[Coahuila]]></region>
+        <latitude><![CDATA[25.558008]]></latitude>
+        <longitude><![CDATA[-103.449565]]></longitude>
+        <orientation><![CDATA[east]]></orientation>
+        <agency><![CDATA[API Inmobiliaria &amp; Asesores]]></agency>
+        <floor_area unit="meters"><![CDATA[375]]></floor_area>
+        <rooms><![CDATA[7]]></rooms>
+        <bathrooms><![CDATA[5]]></bathrooms>
+        <pictures>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5580%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[fachada]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5576%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[fachada_acercamiento]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5520%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[fachada_lateral]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5574%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[fachada_lateral_2]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5524%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[cochera]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5527%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[sala]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5528%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[comedor]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5529%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[cocina]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5534%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[sala_tv]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5550%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[sala_tv_2]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5539%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[recamara_planta_baja]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5541%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[recamara_planta_baja_2]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5543%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[wc]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5545%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[recamara_principal_planta_baja]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5549%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[wc_2]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5552%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[jardin]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5553%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[jardin_2]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5557%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[wc_3]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5560%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[departamento_1]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5564%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[departamento_1_2]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5565%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[wc_departamento_1]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5568%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[departamento_1_3]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36431&img=%5FMG%5F5572%2EJPG&w=600]]></picture_url>
+                <picture_title><![CDATA[acceso_a_departamentos]]></picture_title>
+            </picture>
+        </pictures>
+        <parking><![CDATA[1]]></parking>
+        <contact_name><![CDATA[Atencion a clientes]]></contact_name>
+        <contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+        <contact_telephone><![CDATA[8712044882]]></contact_telephone>
+    </ad>
+    <ad>
+        <id><![CDATA[36485]]></id>
+        <url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36485&Ir=Ir]]></url>
+        <title><![CDATA[Casa, puede ser utilizada como casa o comercio (ambas) sobre el blvd. senderos]]></title>
+        <type><![CDATA[For Sale]]></type>
+        <content><![CDATA[Casa en excelentes condiciones, la cual puede ser utilizada como casa o comercio (ambas) , cuenta con cubierta de granito en la cocina, hidroneumatico, equipo de aire lavado en planta alta, tiene 3.5 baños, closets, muy cerca de centros comerciales y escuelas privada.
+        Excelentemente ubicada en area comercial, sobre el blvd. senderos. Se puede llagar por el puente de la universidad iberoamericana o por el blvd. de la senda. muy cerca de la glorieta principal y de el Seven de el fraccionamiento senderos.]]></content>
+        <price><![CDATA[1590000]]></price>
+        <property_type><![CDATA[casa]]></property_type>
+        <address><![CDATA[Blvd. Senderos No.652 ]]></address>
+        <city_area><![CDATA[Colonia Senderos]]></city_area>
+        <city><![CDATA[Torreon]]></city>
+        <postcode><![CDATA[27130]]></postcode>
+        <region><![CDATA[Coahuila]]></region>
+        <latitude><![CDATA[25.612404]]></latitude>
+        <longitude><![CDATA[-103.387968]]></longitude>
+        <orientation><![CDATA[east]]></orientation>
+        <agency><![CDATA[API Inmobiliaria &amp; Asesores]]></agency>
+        <floor_area unit="meters"><![CDATA[210]]></floor_area>
+        <rooms><![CDATA[3]]></rooms>
+        <bathrooms><![CDATA[3]]></bathrooms>
+        <pictures>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7925%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[fachada]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7901%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[sala_comedor]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7903%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[recamara_planta_alta]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7904%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[recamara_planta_alta]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7906%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[estancia]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7907%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[sala_comedor]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7898%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[lavamanos_planta_alta]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7905%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[baño planta alta]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7908%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[cocina]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7909%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[1/2 baño planta baja]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7911%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[accesso principal]]></picture_title>
+            </picture>
+            <picture>
+                <picture_url><![CDATA[http://propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36485&img=IMG%5F7913%2Ejpg&w=600]]></picture_url>
+                <picture_title><![CDATA[cochera electrica para 4 autos]]></picture_title>
+            </picture>
+        </pictures>
+        <parking><![CDATA[1]]></parking>
+        <contact_name><![CDATA[Atencion a clientes]]></contact_name>
+        <contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+        <contact_telephone><![CDATA[8712044882]]></contact_telephone>
+    </ad>
+    <ad>
+		<id><![CDATA[36495]]></id>
+		<url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36495]]></url>
+		<title><![CDATA[Bodegas que se venden como Terreno, con una excelente ubicacion. para negocio, oficinas, o casa.]]></title>
+		<type><![CDATA[For sale]]></type>
+		<content><![CDATA[Bodegas que se venden como Terreno, con una excelente ubicacion. Se  puede vender con una propiedad colindante hacia la calle Niños Heroes o  solamente estas bodegas. excelente para negocio, oficinas, departamento o  casa. Se encuentra ubicada entre las calles Mariano López Ortíz (calle 12) y  Niños Héroes (calle 11), a escasos metros de las salas de velación  Gayosso, Bosque Venustiano Carranza, Hospital Universitario, Colegio  America y Facultad de Medicina de la UAC.]]></content>
+		<price><![CDATA[998820]]></price>
+		<property_type><![CDATA[terreno comercial]]></property_type>
+		<address><![CDATA[ave matamoros No.1125 oriente ]]></address>
+		<city_area><![CDATA[ave matamoros No.1125 oriente ]]></city_area>
+		<city><![CDATA[Torreon]]></city>
+		<postcode><![CDATA[27000]]></postcode>
+		<region><![CDATA[Cohuila]]></region>
+		<latitude><![CDATA[25.540332]]></latitude>
+		<longitude><![CDATA[-103.435997]]></longitude>
+		<orientation><![CDATA[south]]></orientation>
+		<agency><![CDATA[API Inmobiliaria &amp; Asesores]]></agency>
+		<floor_area><![CDATA[372]]></floor_area>
+		<rooms><![CDATA[]]></rooms>
+		<bathrooms><![CDATA[]]></bathrooms>
+		<pictures>
+            <picture>
+	            <picture_url>
+	            <![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36495&amp;img=13045649%5F10209106271164169%5F373087923%5Fn%2Ejpg&w=600]]></picture_url>
+	            <picture_title><![CDATA[frente]]></picture_title>
+            </picture>
+            <picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36495&amp;img=13081623%5F10209106271764184%5F42716147%5Fn%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[fachada acercamiento]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36495&amp;img=13023483%5F10209106270524153%5F406284024%5Fn+%281%29%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[calle matamoros]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36495&amp;img=13045695%5F10209106273244221%5F1339136828%5Fn%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Medidas y Ubicacion]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36495&amp;img=13059382%5F10209106270404150%5F1910204213%5Fn%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Inferior]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36495&amp;img=13081957%5F10209106272284197%5F1243435335%5Fn%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[En buenas condiciones]]></picture_title>
+			</picture>
+		</pictures>
+		<parking><![CDATA[0]]></parking>
+		<contact_name><![CDATA[Atencion a clientes]]></contact_name>
+		<contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+		<contact_telephone><![CDATA[8712044882]]></contact_telephone>
+	</ad>
+	<ad>
+		<id><![CDATA[36504]]></id>
+		<url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36504]]></url>
+		<title><![CDATA[Precioso Terreno frente Area Verde, en circuito las huertas del fraccionamiento hacienda el rosario]]></title>
+		<type><![CDATA[For sale]]></type>
+		<content><![CDATA[Excelente terreno en circuito de fraccionamiento residencial hacienda el  rosario, frente área verde que cuenta con jueguitos para niños, sistema  de riego, arboles y bancas. la mejor plusvalía de la región.  Precioso Terreno frente Área Verde, en circuito las huertas del fraccionamiento hacienda el rosario.]]></content>
+		<price><![CDATA[2156000]]></price>
+		<property_type><![CDATA[terreno residencial]]></property_type>
+		<address><![CDATA[circuito las huertas No.6  ]]></address>
+		<city_area><![CDATA[circuito las huertas No.6  ]]></city_area>
+		<city><![CDATA[Torreon]]></city>
+		<postcode><![CDATA[]]></postcode>
+		<region><![CDATA[Coahuila]]></region>
+		<latitude><![CDATA[25.627600]]></latitude>
+		<longitude><![CDATA[ -103.392709]]></longitude>
+		<orientation><![CDATA[]]></orientation>
+		<agency><![CDATA[API Inmobiliaria &amp; Asesores]]></agency>
+		<floor_area><![CDATA[616]]></floor_area>
+		<rooms><![CDATA[]]></rooms>
+		<bathrooms><![CDATA[]]></bathrooms>
+		<pictures>
+            <picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36504&amp;img=IMG%5F8305+%2D+copia%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[excelente ubicacion]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36504&amp;img=%5FMG%5F5461+%2D+copia%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Bonitas areas verdes]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36504&amp;img=1%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Plano digital]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36504&amp;img=12794666%5F631985250276097%5F6191857870646055429%5Fo%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Bonitos espacios]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36504&amp;img=IMG%5F8320+%2D+copia%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Colonia residencial]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36504&amp;img=IMG%5F8353+%2D+copia%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Terreno Unico]]></picture_title>
+			</picture>
+		</pictures>
+		<parking><![CDATA[0]]></parking>
+		<contact_name><![CDATA[Atencion a clientes]]></contact_name>
+		<contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+		<contact_telephone><![CDATA[8712044882]]></contact_telephone>
+	</ad>
+	<ad>
+		<id><![CDATA[36506]]></id>
+		<url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36506]]></url>
+		<title><![CDATA[Terreno muy cerca de areas verdes, en una cerrada muy tranquila.]]></title>
+		<type><![CDATA[For sale]]></type>
+		<content><![CDATA[Terreno muy cerca de areas verdes, en una cerrada muy tranquila. Excelente terreno en fraccionamiento hacienda el rosario.]]></content>
+		<price><![CDATA[2216500]]></price>
+		<property_type><![CDATA[terreno residencial]]></property_type>
+		<address><![CDATA[cerrada hacienda la zarca No.8  ]]></address>
+		<city_area><![CDATA[cerrada hacienda la zarca No.8  ]]></city_area>
+		<city><![CDATA[Torreon]]></city>
+		<postcode><![CDATA[]]></postcode>
+		<region><![CDATA[Coahuila]]></region>
+		<latitude><![CDATA[25.622564]]></latitude>
+		<longitude><![CDATA[-103.400286]]></longitude>
+		<orientation><![CDATA[]]></orientation>
+		<agency><![CDATA[API Inmobiliaria &amp; Asosesores]]></agency>
+		<floor_area><![CDATA[715]]></floor_area>
+		<rooms><![CDATA[]]></rooms>
+		<bathrooms><![CDATA[]]></bathrooms>
+		<pictures>
+            <picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36506&amp;img=IMG%5F8303+%281%29+%2D+copia%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Vista aerea del fraccionamiento]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36506&amp;img=3%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Plano ubicacion]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36506&amp;img=%5FMG%5F5461+%2D+copia%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Excelentes areas verdes]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36506&amp;img=IMG%5F8305+%2D+copia%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Preciosos espacios]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36506&amp;img=IMG%5F8320+%2D+copia%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Residencial]]></picture_title>
+			</picture>
+		</pictures>
+		<parking><![CDATA[0]]></parking>
+		<contact_name><![CDATA[Atencion a clientes]]></contact_name>
+		<contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+		<contact_telephone><![CDATA[8712044882]]></contact_telephone>
+	</ad>
+	<ad>
+		<id><![CDATA[36507]]></id>
+		<url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36507]]></url>
+		<title><![CDATA[ Atención, Inversionistas, Grandes Centros Comerciales, Parques Industriales, ]]></title>
+		<type><![CDATA[For sale]]></type>
+		<content><![CDATA[Atención, Inversionistas, Grandes Centros Comerciales, Desarrolladores  de Fraccionamientos Residenciales o Parques Industriales. Excelente  Terreno de 8.36 Hectáreas en Venta. Frente a centro distribución AL  SUPER y Zona de Conectividad Internacional de la Laguna, con 319 mts. de  frente al nuevo Libramiento Norte de la Laguna y 85 mts de frente  autopista Torreón-Chihuahua, cuenta con servicios y una casa con granja  de 13,000 m2. Se encuentra ubicada en carretera Gómez palacio-chihuahua y entronque de  nuevo libramiento norte laguna. Muy cerca de la zona de conectividad  internacional de la laguna, asi como frente a el centro de distribución  AL SUPER.]]></content>
+		<price><![CDATA[31768000]]></price>
+		<property_type><![CDATA[terreno comercial]]></property_type>
+		<address><![CDATA[Carr gomez palacio-el vergel km 5 entronque libram No.5 Norte ]]></address>
+		<city_area><![CDATA[Carr gomez palacio-el vergel km 5 entronque libram No.5 Norte ]]></city_area>
+		<city><![CDATA[Gomez Palacio]]></city>
+		<postcode><![CDATA[]]></postcode>
+		<region><![CDATA[Durango]]></region>
+		<latitude><![CDATA[25.625955]]></latitude>
+		<longitude><![CDATA[-103.516233]]></longitude>
+		<orientation><![CDATA[]]></orientation>
+		<agency><![CDATA[API Inmobiliaria &amp; Asosesores]]></agency>
+		<floor_area><![CDATA[83600]]></floor_area>
+		<rooms><![CDATA[]]></rooms>
+		<bathrooms><![CDATA[]]></bathrooms>
+		<pictures>
+	        <picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36507&amp;img=mapa+terreno+imagen%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Vista aerea]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36507&amp;img=FullSizeRender%5B1%5D%281%29%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Frente sobre carr gomez palacio-el vergel]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36507&amp;img=FullSizeRender%5B2%5D%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Excelentes vialidades]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36507&amp;img=FullSizeRender%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Frente sobre libramiento norte laguna]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36507&amp;img=FullSizeRender%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[Frente a centro de distribucion al super]]></picture_title>
+			</picture>
+		</pictures>
+		<parking><![CDATA[0]]></parking>
+		<contact_name><![CDATA[Atencion a clientes]]></contact_name>
+		<contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+		<contact_telephone><![CDATA[8712044882]]></contact_telephone>
+	</ad>
+	<ad>
+		<id><![CDATA[36531]]></id>
+		<url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36531]]></url>
+		<title><![CDATA[ Fraccionamiento Residencial Hacienda el rosario]]></title>
+		<type><![CDATA[For sale]]></type>
+		<content><![CDATA[FRACCIONAMIENTO RESIDENCIAL HACIENDA EL ROSARIO, SE ENCUENTRA EN LA  MEJOR ZONA DE LA REGIÓN PARA VIVIR, UBICADA CERCA DE CENTROS  COMERCIALES, MALLS, CLUBES DEPORTIVOS, RESTAURANTES, GASOLINERAS,  AEROPUERTO, PLAZAS COMERCIALES, ESTADIO DEL SANTOS LAGUNA TSM,  UNIVERSIDADES Y COLEGIOS DE PRESTIGIO. EN LA ZONA DE MAYOR PLUSVALÍA DE  LA REGIÓN, EXCELENTES VIALIDADES DE ACCESO *DESDE $2,900.00 M2 *EXCLUSIVOS LOTES DESDE 500 M2 *PÁGALO DE CONTADO A UN PRECIO PREFERENCIAL  *ELIGE TU PLAN DE FINANCIAMIENTO 12, 24 O 36 MESES CON UN ANTICIPO DE 10% *GRANDES PLAZAS CON ÁREAS VERDES *TODOS LOS SERVICIOS OCULTOS (SUBTERRÁNEOS) *BARDA PERIMETRAL *ACCESO CONTROLADO AL FRACCIONAMIENTO *VIGILANCIA *SENDEROS PARA CAMINAR *ALUMBRADO LED *VÍAS DE ACCESO RÁPIDAS   FRACCIONAMIENTO RESIDENCIAL HACIENDA EL ROSARIO, SE ENCUENTRA EN LA  MEJOR ZONA DE LA REGIÓN PARA VIVIR, UBICADA CERCA DE CENTROS  COMERCIALES, MALLS, CLUBES DEPORTIVOS, RESTAURANTES, GASOLINERAS,  AEROPUERTO, PLAZAS COMERCIALES, ESTADIO DEL SANTOS LAGUNA TSM,  UNIVERSIDADES Y COLEGIOS DE PRESTIGIO. CON LA MEJOR PLUSVALÍA DE LA ZONA.]]></content>
+		<price><![CDATA[1550000]]></price>
+		<property_type><![CDATA[terreno residencial]]></property_type>
+		<address><![CDATA[Hacienda El Rosario  No.5 plaza agor ]]></address>
+		<city_area><![CDATA[Hacienda El Rosario  No.5 plaza agor ]]></city_area>
+		<city><![CDATA[Torreon]]></city>
+		<postcode><![CDATA[]]></postcode>
+		<region><![CDATA[Coahuila]]></region>
+		<latitude><![CDATA[25.621101]]></latitude>
+		<longitude><![CDATA[-103.393655]]></longitude>
+		<orientation><![CDATA[]]></orientation>
+		<agency><![CDATA[API Inmobiliaria &amp; Asosesores]]></agency>
+		<floor_area><![CDATA[500]]></floor_area>
+		<rooms><![CDATA[]]></rooms>
+		<bathrooms><![CDATA[]]></bathrooms>
+		<pictures>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36531&amp;img=3%2E%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[bonitos accesos]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36531&amp;img=6%2E%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[plazas con areas verdes]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36531&amp;img=7%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[vista aerea de area verde]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36531&amp;img=IMG%5F8304%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[area verde]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36531&amp;img=IMG%5F8321%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[amplias vialidades]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36531&amp;img=IMG%5F8330%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[senderos para caminar o correr]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36531&amp;img=IMG%5F8335%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[areas de juegos para ninos]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36531&amp;img=IMG%5F8339%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[extensas areas]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36531&amp;img=IMG%5F8346%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[bonitos espacios]]></picture_title>
+			</picture>
+		</pictures>
+		<parking><![CDATA[0]]></parking>
+		<contact_name><![CDATA[Atencion a clientes]]></contact_name>
+		<contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+		<contact_telephone><![CDATA[8712044882]]></contact_telephone>
+	</ad>
+	<ad>
+		<id><![CDATA[36549]]></id>
+		<url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36549]]></url>
+		<title><![CDATA[ Atención, Inversionistas, Grandes Centros Comerciales, Parques Industriales, ]]></title>
+		<type><![CDATA[For sale]]></type>
+		<content><![CDATA[Atención, Inversionistas, Grandes Centros Comerciales, Desarrolladores  de Fraccionamientos Residenciales o Parques Industriales. Excelente  Terreno de 8.36 Hectáreas en Venta. Frente a centro distribución AL  SUPER y Zona de Conectividad Internacional de la Laguna, con 319 mts. de  frente al nuevo Libramiento Norte de la Laguna y 85 mts de frente  autopista Torreón-Chihuahua, cuenta con servicios y una casa con granja  de 13,000 m2. Se encuentra ubicada en carretera Gómez palacio-chihuahua y entronque de  nuevo libramiento norte laguna. Muy cerca de la zona de conectividad  internacional de la laguna, asi como frente a el centro de distribución  AL SUPER.]]></content>
+		<price><![CDATA[25230000]]></price>
+		<property_type><![CDATA[terreno comercial]]></property_type>
+		<address><![CDATA[Carretera Torreon-San Pedro km-15 No.15]]></address>
+		<city_area><![CDATA[Carretera Torreon-San Pedro km-15 No.15]]></city_area>
+		<city><![CDATA[Torreon]]></city>
+		<postcode><![CDATA[]]></postcode>
+		<region><![CDATA[Coahuila]]></region>
+		<latitude><![CDATA[25.690695]]></latitude>
+		<longitude><![CDATA[-103.333580]]></longitude>
+		<orientation><![CDATA[]]></orientation>
+		<agency><![CDATA[API Inmobiliaria &amp; Asosesores]]></agency>
+		<floor_area><![CDATA[87000]]></floor_area>
+		<rooms><![CDATA[]]></rooms>
+		<bathrooms><![CDATA[]]></bathrooms>
+		<pictures>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=mapa+cuije+2%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[vista aerea]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5476%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[a pie de carretera]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5471%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[extenso]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5480%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[frente de 245 mts]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5485%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[desmontado]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5489%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[frente a la carretera]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5495%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[remate]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=1%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[oportunidad unica]]></picture_title>
+			</picture>
+		</pictures>
+		<parking><![CDATA[0]]></parking>
+		<contact_name><![CDATA[Atencion a clientes]]></contact_name>
+		<contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+		<contact_telephone><![CDATA[8712044882]]></contact_telephone>
+	</ad>
+	<ad>
+		<id><![CDATA[36550]]></id>
+		<url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36550]]></url>
+		<title><![CDATA[Remate. Inversionistas, desarrolladores de fraccionamientos residenciales o parques industriales.]]></title>
+		<type><![CDATA[For sale]]></type>
+		<content><![CDATA[Inversionistas, desarrolladores de fraccionamientos residenciales o  parques industriales. Terreno de 8.7 hectáreas sobre Carretera Torreón -  San Pedro KM 15, con 245 mts de frente con la autopista, ubicado a 5 km  del Nuevo Libramiento Laguna Norte, a 7.5 km del Estadio Corona TSM.  Remate $290 pesos/m2. Terreno de 8.7 hectáreas sobre Carretera Torreón - San Pedro KM 15, con  245 mts de frente con la autopista, ubicado a 5 km del Nuevo Libramiento  Laguna Norte, a 7.5 km del Estadio Corona TSM. Remate $290 pesos/m2.]]></content>
+		<price><![CDATA[25230000]]></price>
+		<property_type><![CDATA[terreno industrial]]></property_type>
+		<address><![CDATA[ Carretera Torreon-San Pedro km 15  No.15  ]]></address>
+		<city_area><![CDATA[ Carretera Torreon-San Pedro km 15  No.15  ]]></city_area>
+		<city><![CDATA[Torreon]]></city>
+		<postcode><![CDATA[]]></postcode>
+		<region><![CDATA[Coahuila]]></region>
+		<latitude><![CDATA[25.690695]]></latitude>
+		<longitude><![CDATA[-103.333580]]></longitude>
+		<orientation><![CDATA[]]></orientation>
+		<agency><![CDATA[API Inmobiliaria &amp; Asesores]]></agency>
+		<floor_area><![CDATA[87000]]></floor_area>
+		<rooms><![CDATA[]]></rooms>
+		<bathrooms><![CDATA[]]></bathrooms>
+		<pictures>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=mapa+cuije+2%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[vista aerea]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5476%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[a pie de carretera]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5471%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[extenso]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5480%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[frente de 245 mts]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5485%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[desmontado]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5489%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[frente a la carretera]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5495%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[remate]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=1%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[oportunidad unica]]></picture_title>
+			</picture>
+		</pictures>
+		<parking><![CDATA[0]]></parking>
+		<contact_name><![CDATA[Atencion a clientes]]></contact_name>
+		<contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+		<contact_telephone><![CDATA[8712044882]]></contact_telephone>
+	</ad>
+	<ad>
+		<id><![CDATA[36551]]></id>
+		<url><![CDATA[http://apiinmobiliaira.mx/detalle_propiedad.asp?id=36551]]></url>
+		<title><![CDATA[Remate. Terreno suburbano. Inversionistas, desarrolladores de fraccionamientos residenciales o parques industriales.]]></title>
+		<type><![CDATA[For sale]]></type>
+		<content><![CDATA[Inversionistas, desarrolladores de fraccionamientos residenciales o  parques industriales. Terreno de 8.7 hectáreas sobre Carretera Torreón -  San Pedro KM 15, con 245 mts de frente con la autopista, ubicado a 5 km  del Nuevo Libramiento Laguna Norte, a 7.5 km del Estadio Corona TSM.  Remate $290 pesos/m2. Terreno de 8.7 hectáreas sobre Carretera Torreón - San Pedro KM 15, con  245 mts de frente con la autopista, ubicado a 5 km del Nuevo Libramiento  Laguna Norte, a 7.5 km del Estadio Corona TSM. Remate $290 pesos/m2.]]></content>
+		<price><![CDATA[25230000]]></price>
+		<property_type><![CDATA[terreno suburbano]]></property_type>
+		<address><![CDATA[ Carretera Torreon-San Pedro km 15  No.15  ]]></address>
+		<city_area><![CDATA[ Carretera Torreon-San Pedro km 15  No.15  ]]></city_area>
+		<city><![CDATA[Torreon]]></city>
+		<postcode><![CDATA[]]></postcode>
+		<region><![CDATA[Coahuila]]></region>
+		<latitude><![CDATA[25.690695]]></latitude>
+		<longitude><![CDATA[-103.333580]]></longitude>
+		<orientation><![CDATA[]]></orientation>
+		<agency><![CDATA[API Inmobiliaria &amp; Asesores]]></agency>
+		<floor_area><![CDATA[87000]]></floor_area>
+		<rooms><![CDATA[]]></rooms>
+		<bathrooms><![CDATA[]]></bathrooms>
+		<pictures>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=mapa+cuije+2%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[vista aerea]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5476%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[a pie de carretera]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5471%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[extenso]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5480%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[frente de 245 mts]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5485%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[desmontado]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5489%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[frente a la carretera]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=%5FMG%5F5495%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[remate]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36549&amp;img=1%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[oportunidad unica]]></picture_title>
+			</picture>
+		</pictures>
+		<parking><![CDATA[0]]></parking>
+		<contact_name><![CDATA[Atencion a clientes]]></contact_name>
+		<contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+		<contact_telephone><![CDATA[8712044882]]></contact_telephone>
+	</ad>
+	<ad>
+		<id><![CDATA[36592]]></id>
+		<url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36592]]></url>
+		<title><![CDATA[Terreno único en club campestre Montebello]]></title>
+		<type><![CDATA[For sale]]></type>
+		<content><![CDATA[terreno único en club campestre Montebello, con vista al lago de exclusivo campo de golf, frente a tee de salida de par 3, cuenta con todos los servicios subterraneos, cerca de centros comerciales, gasolineras y escuelas. Seguridad privada. preciosas areas verdes, amplias vialidades. siempre tendrás la vista al campo y lago de el campo de golf.]]></content>
+		<price><![CDATA[2807000]]></price>
+		<property_type><![CDATA[terreno residencial]]></property_type>
+		<address><![CDATA[Sierra de Alpes No.802 poniente]]></address>
+		<city_area><![CDATA[Sierra de Alpes No.802 poniente]]></city_area>
+		<city><![CDATA[Torreon]]></city>
+		<postcode><![CDATA[27274]]></postcode>
+		<region><![CDATA[Coahuila]]></region>
+		<latitude><![CDATA[25.516393]]></latitude>
+		<longitude><![CDATA[-103.366805]]></longitude>
+		<orientation><![CDATA[]]></orientation>
+		<agency><![CDATA[API Inmobiliaria &amp; Asesores]]></agency>
+		<floor_area><![CDATA[802]]></floor_area>
+		<rooms><![CDATA[]]></rooms>
+		<bathrooms><![CDATA[]]></bathrooms>
+		<pictures>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5846%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[frente a lago]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5848%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[frente tee salida par 3]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5849%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[todos los servicios]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5851%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[excelente mantenimiento]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5852%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[extensas areas verdes]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5854%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[unico en su tipo]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5855%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[exclusivo]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5856%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[bellos paisajes]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5857%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[oportunidad]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5858%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[bonita vista]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5861%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[bellos paisajes 2]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5866%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[amplias areas]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36592&amp;img=%5FMG%5F5867%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[grandes vialidades]]></picture_title>
+			</picture>
+		</pictures>
+		<parking><![CDATA[0]]></parking>
+		<contact_name><![CDATA[Atencion a clientes]]></contact_name>
+		<contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+		<contact_telephone><![CDATA[8712044882]]></contact_telephone>
+	</ad>
+	<ad>
+		<id><![CDATA[36593]]></id>
+		<url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36593]]></url>
+		<title><![CDATA[ Exclusivo terreno ubicado a escasos metros de las mas extensas areas verdes en hacienda el rosario. ]]></title>
+		<type><![CDATA[For sale]]></type>
+		<content><![CDATA[ Exclusivo terreno ubicado a escasos metros de las mas extensas areas  verdes del fraccionamiento hacienda el rosario, cuenta con todos los  servicios, seguridad, acceso controlado, en una muy tranquila calle, el  fraccionamiento es el de mayor plusvalía de la región, muy cerca de  centros comerciales, escuelas privadas, gasolineras, galerías, estadio  del santos laguna y clubes deportivos.  no te pierdas esta oportunidad. El terreno se encuentra ubicado a escasos metros de las mas extensas  áreas verdes del fraccionamiento, cuenta con todos los servicios, en el  fraccionamiento con mayor plusvalía de la region.]]></content>
+		<price><![CDATA[3234000]]></price>
+		<property_type><![CDATA[terreno residencial]]></property_type>
+		<address><![CDATA[SANTA ROSA No.77 ORIENTE ]]></address>
+		<city_area><![CDATA[SANTA ROSA No.77 ORIENTE ]]></city_area>
+		<city><![CDATA[Torreon]]></city>
+		<postcode><![CDATA[]]></postcode>
+		<region><![CDATA[Coahuila]]></region>
+		<latitude><![CDATA[25.624553]]></latitude>
+		<longitude><![CDATA[-103.400410]]></longitude>
+		<orientation><![CDATA[]]></orientation>
+		<agency><![CDATA[API Inmobiliaria &amp; Asesores]]></agency>
+		<floor_area><![CDATA[980]]></floor_area>
+		<rooms><![CDATA[]]></rooms>
+		<bathrooms><![CDATA[]]></bathrooms>
+		<pictures>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36593&amp;img=%5FMG%5F5461%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36593&amp;img=2%2Ejpg&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[muy cerca de grandes areas verdes]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36593&amp;img=IMG%5F8303+%281%29%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[amplias areas]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36593&amp;img=IMG%5F8305%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[exclusivo]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36593&amp;img=IMG%5F8320%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[terreno exclusivo]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36593&amp;img=IMG%5F8353%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[amplias vialidades]]></picture_title>
+			</picture>
+		</pictures>
+		<parking><![CDATA[0]]></parking>
+		<contact_name><![CDATA[Atencion a clientes]]></contact_name>
+		<contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+		<contact_telephone><![CDATA[8712044882]]></contact_telephone>
+	</ad>
+	<ad>
+		<id><![CDATA[36598]]></id>
+		<url><![CDATA[http://apiinmobiliaria.mx/detalle_propiedad.asp?id=36598]]></url>
+		<title><![CDATA[Terreno hacienda el rosario seguridad privada, control de acceso, con gran plusvalía.]]></title>
+		<type><![CDATA[For sale]]></type>
+		<content><![CDATA[Terreno Ubicado frente a una de las áreas verdes mas extensas del  fraccionamiento cuenta con todos los servicios, seguridad privada,  control de acceso, instalaciones ocultas, con gran plusvalía, cerca de  prestigiosas universidades y colegios, a un kilómetro del estadio de los  santos laguna, centros comerciales y clubes deportivos a poca  distancia, gasolineras y mall galerías a 4 km. Ubicada el el Fraccionamiento Residencial Hacienda el Rosario, frente a extensa Área Verde]]></content>
+		<price><![CDATA[1925000]]></price>
+		<property_type><![CDATA[terreno residencial]]></property_type>
+		<address><![CDATA[real de mapimi No.59]]></address>
+		<city_area><![CDATA[real de mapimi No.59]]></city_area>
+		<city><![CDATA[Torreon]]></city>
+		<postcode><![CDATA[]]></postcode>
+		<region><![CDATA[Coahuila]]></region>
+		<latitude><![CDATA[25.623350]]></latitude>
+		<longitude><![CDATA[-103.392686]]></longitude>
+		<orientation><![CDATA[]]></orientation>
+		<agency><![CDATA[API Inmobiliaria &amp; Asesores]]></agency>
+		<floor_area><![CDATA[550]]></floor_area>
+		<rooms><![CDATA[]]></rooms>
+		<bathrooms><![CDATA[]]></bathrooms>
+		<pictures>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36598&amp;img=%5FMG%5F5872%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[extensas areas verdes]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36598&amp;img=%5FMG%5F5461%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[amplios andadores]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36598&amp;img=%5FMG%5F5463%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[bellos paisajes]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36598&amp;img=%5FMG%5F5878%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[excelente distribucion]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36598&amp;img=%5FMG%5F5873%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[grandes arboles]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36598&amp;img=%5FMG%5F5875%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[excelente mantenimiento y limpiez]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36598&amp;img=%5FMG%5F5876%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[seguridad privada]]></picture_title>
+			</picture>
+			<picture>
+				<picture_url>
+				<![CDATA[http://www.propiedadeslaguna.com/admin/corredor/newupload3/thumbEdit.asp?prop=36598&amp;img=IMG%5F8352%2EJPG&w=600]]>
+				</picture_url>
+				<picture_title><![CDATA[gran plusvalia]]></picture_title>
+			</picture>
+		</pictures>
+		<parking><![CDATA[0]]></parking>
+		<contact_name><![CDATA[Atencion a clientes]]></contact_name>
+		<contact_email><![CDATA[atencionaclientes@apiinmobiliaria.com.mx]]></contact_email>
+		<contact_telephone><![CDATA[8712044882]]></contact_telephone>
+	</ad>
+</trovit>
